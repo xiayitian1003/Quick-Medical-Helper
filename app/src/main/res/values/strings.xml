@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">一键就医助手</string>
+    <string name="search_hint">请输入查询内容</string>
+    <string name="search_hospt">搜医院</string>
+    <string name="search_symp">搜科室/症状</string>
+    <string name="query">query</string>
+    <string name="textview2">v1.0</string>
+    <string name="button_exit">退出</string>
+    <string name="button_back">返回</string>
+    <string name="textview_select">请选择您所在的区域 :</string>
+    <string name="textview">TextView~~~~~~~~~~~~~~~~~</string>
+
+</resources>

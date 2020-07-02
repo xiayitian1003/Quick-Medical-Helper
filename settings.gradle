@@ -1,0 +1,3 @@
+rootProject.name='Quick Medical Helper'
+include ':app'
+
